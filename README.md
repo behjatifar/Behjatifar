@@ -1,7 +1,9 @@
-## Hi there 👋
+
 
 ![Tech Lover](https://github.com/BEPb/BEPb/blob/main/src/header_.png)
+## Hi there 👋
 I'm AmirMahDi a Student who's learning and working On Web-Development Focused on Back-end
+i wish to be an Software Engineer
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Nestjs
 - 📫 How to reach me: @behjatifarcom > Telegram 
