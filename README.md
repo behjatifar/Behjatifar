@@ -1,5 +1,6 @@
 ## Hi there 👋
-https://github.com/BEPb/BEPb/blob/main/src/header_.png
+
+![Tech Lover](https://github.com/BEPb/BEPb/blob/main/src/header_.png)
 I'm AmirMahDi a Student who's learning and working On Web-Development Focused on Back-end
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Nestjs
