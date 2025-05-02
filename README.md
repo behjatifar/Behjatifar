@@ -5,7 +5,7 @@
 I'm AmirMahDi a Student who's learning and working On Web-Development Focused on Back-end
 i wish to be an Software Engineer
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Nestjs
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: @behjatifarcom > Telegram
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Adventure+Awaits..)](https://git.io/typing-svg)
 <!--
