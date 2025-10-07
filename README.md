@@ -4,7 +4,7 @@
 ## Hi there 👋
 Software Engineer & Web Developer
 - 🌱 I’m currently learning Golang & Develop Backend APi's 
-- 📫 How to reach me: @behjatifarAi || mrbehjatifara30@gmail.com Telegram
+- 📫 How to reach me: @behjatifarAi Telegram || mrbehjatifara30@gmail.com
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Adventure+Awaits..)](https://git.io/typing-svg)
 <!--
 **AmirMahDiBehjatifar/AmirMahDiBehjatifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
