@@ -2,11 +2,9 @@
 
 ![Tech Lover](https://github.com/BEPb/BEPb/blob/main/src/header_.png)
 ## Hi there 👋
-I'm AmirMahDi a Student who's learning and working On Web-Development Focused on Back-end
-i wish to be an Software Engineer
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Golang
-- 📫 How to reach me: @behjatifarcom > Telegram
+Software Engineer & Web Developer
+- 🌱 I’m currently learning Golang & Develop Backend APi's 
+- 📫 How to reach me: @behjatifarAi || mrbehjatifara30@gmail.com Telegram
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Adventure+Awaits..)](https://git.io/typing-svg)
 <!--
 **AmirMahDiBehjatifar/AmirMahDiBehjatifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
